@@ -1,0 +1,6 @@
+Weather,Time,Road_Type,Vehicle_Speed,Driver_Age,Num_Vehicles,Road_Condition,Accident_Severity
+Clear,Morning,Highway,60,30,2,Dry,0
+Rainy,Afternoon,Residential,60,45,1,Wet,1
+Foggy,Night,Highway,40,30,3,Icy,2
+Clear,Evening,Residential,65,35,2,Dry,0
+Rainy,Morning,Highway,55,60,1,Wet,1
